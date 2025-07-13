@@ -1,4 +1,4 @@
-programa para calcular o valor de uma viagem.
+Programa para calcular o valor de uma viagem.
 
 Você terá 3 variáveis, sendo elas:
 1- Preço do combustível;
